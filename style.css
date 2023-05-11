@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body {
+  background: #e5e5e5;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.btn-primary {
+  padding: 1rem ;
+  font-size: 1rem;
+  width: 20% !important;
+  color: #396df2 ;
+  background-color: #fff ;
+ 
+}
+
+#contact-frm {
+  
+  background-image: url('./assets/contact-frm1.svg');
+  border-top-left-radius: 80px ;
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+ background-size: cover;
+}
